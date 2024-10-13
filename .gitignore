@@ -1,0 +1,21 @@
+# Ignore environment settings
+venv/
+.env
+
+# Ignore Django migrations
+*/migrations/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore database files
+*.sqlite3
+
+# Ignore static and media files (if not needed in the repo)
+staticfiles/
+media/
+
+# Ignore IDE files (se você usa VSCode ou PyCharm, por exemplo)
+.vscode/
+.idea/

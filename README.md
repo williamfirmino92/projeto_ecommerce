@@ -122,3 +122,11 @@ python manage.py migrate
 python manage.py runserver
 Acesse o sistema no seu navegador em http://127.0.0.1:8000/.
 ```
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* e *pull requests*.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
